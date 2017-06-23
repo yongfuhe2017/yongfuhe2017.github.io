@@ -3,7 +3,6 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 8
-comments: true
 permalink: /:title
 encoding: UTF-8
 gems: [jekyll-paginate]
@@ -11,15 +10,15 @@ gems: [jekyll-paginate]
 title: Yongfu He's Blog
 url: http://yongfuhe2017.github.io
 feed: /atom.xml
-author_info: <a href="http://yongfuhe2017.github.io/">yongfuhe2017</a>
+author_info: <a href="http://yongfuhe2017.github.io/">yongfuhe</a>
 
 myblog:
-  gavatar: images/2.jpg
-  gpname: yongfuhe2017
+  gavatar: images/umb.jpg
+  gpname: yongfuhe
   linkedin: 
   github: https://github.com/xriver007
-  email: mailto:
+  email: xriver007@163.com
   coverimgs: []
   postbgimg: []
 
-categories: [web, tools, spark, new-spark, python, money, erlang, db, books]
+categories: [python, books]
