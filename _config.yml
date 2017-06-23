@@ -10,11 +10,11 @@ gems: [jekyll-paginate]
 title: Yongfu He's Blog
 url: http://yongfuhe2017.github.io
 feed: /atom.xml
-author_info: <a href="http://yongfuhe2017.github.io/">yongfuhe</a>
+author_info: <a href="http://yongfuhe2017.github.io/">yongfuhe2017</a>
 
 myblog:
   gavatar: images/2.jpg
-  gpname: yongfuhe
+  gpname: yongfuhe2017
   linkedin: 
   github: https://github.com/xriver007
   email: xriver007@163.com

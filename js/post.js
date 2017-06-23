@@ -1,4 +1,4 @@
-$(document).ready(function(){
+﻿$(document).ready(function(){
 
     $('pre').addClass('prettyprint linenums'); // Google code Hight need these class
     $.getScript('/js/prettify/prettify.js', function(){ prettyPrint(); });
@@ -109,7 +109,7 @@ $(document).ready(function(){
     (function lastModifedTime() {
       var $lm = $('span.lastModified');
       $.ajax({
-        url: 'https://api.github.com/repos/litaotao/litaotao.github.io/commits?path=/' + $lm.data('source'),
+        url: 'https://api.github.com/repos/yongfuhe2017/yongfuhe2017.github.io/commits?path=/' + $lm.data('source'),
         method: 'GET',
         contentType: 'application/json',
         success: function(data) {
