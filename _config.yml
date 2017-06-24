@@ -1,0 +1,23 @@
+# Site settings
+title: i am yongfu
+subtitle: a Blog
+email: 
+description: "A machine learning craftsmanship blog."
+baseurl: ""
+url: "https://xriver007.github.io"
+twitter_username: 
+github_username:  xriver007
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+analytics :
+  provider : google
+  google:
+    tracking_id : 'UA-36138203-3'
+  getclicky :
+    site_id
