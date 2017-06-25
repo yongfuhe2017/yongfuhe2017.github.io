@@ -5,8 +5,8 @@
     <description>If you cannot measure it, you cannot improve it</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jun 2017 19:44:03 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Jun 2017 19:44:03 +0800</lastBuildDate>
+    <pubDate>Sun, 25 Jun 2017 21:01:06 +0800</pubDate>
+    <lastBuildDate>Sun, 25 Jun 2017 21:01:06 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -27,6 +27,45 @@ For more information about this story, please visit &lt;a href=&quot;http://www.
         <pubDate>Sat, 24 Jun 2017 20:00:00 +0800</pubDate>
         <link>http://localhost:4000/2017/06/24/BBC-documentary-Antarctica/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/06/24/BBC-documentary-Antarctica/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Anomaly detection based on Deep Learning</title>
+        <description>&lt;p&gt; In this blogpost, I try to review the latest progress of anomaly detection based on Deep Learning. I will update  this blog in my spare time.  Hence, it will take several days  to  finish this post. &lt;/p&gt;
+
+&lt;p&gt;Feel free to follow if you'd be interested in reading more in the future and thanks for all the feedback!&lt;/p&gt;
+
+&lt;h2 id=&quot;anomaly-detection&quot;&gt;Anomaly detection&lt;/h2&gt;
+&lt;p&gt;To be continued &lt;/p&gt;
+
+&lt;h2 id=&quot;deep-learning&quot;&gt;Deep Learning&lt;/h2&gt;
+&lt;p&gt;To be continued &lt;/p&gt;
+
+&lt;h2 id=&quot;anomaly-detection-based-on-deep-learning&quot;&gt;Anomaly detection based on Deep Learning&lt;/h2&gt;
+&lt;p&gt;To be continued &lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/shCore.css&quot; /&gt;
+
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/shThemeDefault.css&quot; /&gt;
+
+&lt;script src=&quot;/js/shCore.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/js/shLegacy.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/js/shBrushPython.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+	// SyntaxHighlighter.config.bloggerMode = true;
+	SyntaxHighlighter.config.toolbar = true;
+    SyntaxHighlighter.all();
+&lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 24 Jun 2017 20:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/06/24/Anomaly-detection-based-on-Deep-Learning/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/06/24/Anomaly-detection-based-on-Deep-Learning/</guid>
         
         
       </item>
