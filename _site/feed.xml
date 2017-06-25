@@ -5,8 +5,8 @@
     <description>If you cannot measure it, you cannot improve it</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jun 2017 12:48:26 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Jun 2017 12:48:26 +0800</lastBuildDate>
+    <pubDate>Sun, 25 Jun 2017 16:14:59 +0800</pubDate>
+    <lastBuildDate>Sun, 25 Jun 2017 16:14:59 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -33,13 +33,40 @@ For more information about this story, please visit &lt;a href=&quot;http://www.
     
       <item>
         <title>Conference and journal list about  anomaly detection and reconfigurable computing</title>
-        <description>&lt;p&gt; In this blogpost, I introduce some conference and journal that are related to anomaly detection and reconfigurable computing.&lt;/p&gt;
+        <description>&lt;p&gt; In this blogpost, I introduce some conferences and journals that are related to anomaly detection and reconfigurable computing.&lt;/p&gt;
 
 &lt;p&gt;Feel free to follow if you'd be interested in reading more in the future and thanks for all the feedback!&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Part 1: Anomaly detection&lt;/h2&gt;
+&lt;p&gt;If you were interested in anomaly detection. The following conferences should not be missed. &lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
+&lt;h4&gt;ICLR&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.iclr.cc/doku.php?id=ICLR2017:main&amp;amp;redirect=1&quot;&gt;ICLR 2017 (International Conference on Learning Representations 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on Deep Learning.&lt;/p&gt;
+
+&lt;h4&gt;IJCAI&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ijcai-17.org/&quot;&gt;IJCAI 2017 (International Joint Conference on Artificial Intelligence 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on Artificial Intelligence.&lt;/p&gt;
+
+&lt;h4&gt;KDD&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.kdd.org/kdd2017/&quot;&gt;KDD 2017 (ACM SIGKDD Conference of Knowledge Discovery and Data Mining 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on data science, data mining, knowledge discovery, large-scale data analytics, and big data.&lt;/p&gt;
+
+&lt;h4&gt;ICDM&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://icdm2017.bigke.org/&quot;&gt;ICDM 2017 (International Conference on Data Mining 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  data mining.&lt;/p&gt;
+
+&lt;h4&gt;SIAM&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.siam.org/meetings/sdm17/&quot;&gt;SIAM 2017 (SIAM International Conference on Data Mining 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  data mining.&lt;/p&gt;
+
+&lt;h4&gt;ICML&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://2017.icml.cc/&quot;&gt;ICML 2017 (International Conference on Machine Learning 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  machine Learning.&lt;/p&gt;
+
+&lt;h4&gt;ICRA&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.icra2017.org/&quot;&gt;ICRA 2017 (International Conference on Robotics and Automation )&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  robotics and automation &lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Part 2: Reconfigurable computing&lt;/h2&gt;
 
