@@ -5,9 +5,31 @@
     <description>If you cannot measure it, you cannot improve it</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jun 2017 10:22:52 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Jun 2017 10:22:52 +0800</lastBuildDate>
+    <pubDate>Sun, 25 Jun 2017 12:48:26 +0800</pubDate>
+    <lastBuildDate>Sun, 25 Jun 2017 12:48:26 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>BBC Documentary</title>
+        <description>&lt;p&gt; In this blogpost, I introduce some interesting BBC documentary.&lt;/p&gt;
+
+&lt;p&gt;Feel free to follow if you'd be interested in reading more in the future and thanks for all the feedback!&lt;/p&gt;
+&lt;h2 id=&quot;bbc-documentary-antarctica&quot;&gt;BBC documentary-Antarctica&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/av4324843/?from=search&amp;amp;seid=5038296404780696671&quot;&gt;Snow.Chick : A Penguin’s Tale&lt;/a&gt; tells  an extraordinary story about a baby  emperor penguin’ birth and development.  We also see great love of mather and father penguin.
+For more information about this story, please visit &lt;a href=&quot;http://www.imdb.com/title/tt5296936/&quot;&gt;IMDB Snow.Chick : A Penguin’s Tale (2015)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; width=&quot;100%&quot; src=&quot;/img/A Penguin's Tale.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;i&gt;Source: &lt;a href=&quot;http://www.imdb.com/title/tt5296936/&quot;&gt;IMDB Snow.Chick : A Penguin's Tale (2015)&lt;/a&gt;&lt;/i&gt;
+&lt;/center&gt;
+</description>
+        <pubDate>Sat, 24 Jun 2017 20:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/06/24/BBC-documentary-Antarctica/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/06/24/BBC-documentary-Antarctica/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Conference and journal list about  anomaly detection and reconfigurable computing</title>
