@@ -43,8 +43,31 @@ header-img: "img/xk1.jpg"
 <p>Top conference on  robotics and automation </p>
  
 <h2 class="section-heading">Part 2: Reconfigurable computing</h2>
+<p>If you were interested in reconfigurable computing. The following conferences should not be missed. </p>
+<h4>ASPLOS</h4>
+[ASPLOS 2017 (International Conference on Architectural Support for Programming Languages and Operating Systems 2017)](http://novel.ict.ac.cn/ASPLOS2017/)
+<p>Top conference on  computer architecture and hardware, programming languages and compilers, operating systems and networking, as well as applications and user interfaces.  </p>
 
-<p></p>
+<h4>ISCA</h4>
+[ISCA 2017 (International Symposium on Computer Architecture  2017)](http://isca17.ece.utoronto.ca/doku.php)
+<p>Top conference on  computer architecture.  </p>
+
+<h4>FPGA</h4>
+[FPGA 2017 (International Symposium on Field-Programmable Gate Arrays 2017)](http://www.isfpga.org/index.html)
+<p>Top conference on  FPGA.  </p>
+
+<h4>FCCM</h4>
+[FCCM 2017 (International Symposium on Field-Programmable Custom Computing Machines 2017)](http://fccm.org/2017/)
+<p>Top conference on  exploiting the unique features and capabilities of FPGAs and other reconfigurable hardware.  </p>
+
+<h4>FPL</h4>
+[FPL 2017 ( International Conference on Field-Programmable Technology  2017)](https://www.rmit.edu.au/events/all-events/conferences/2017/december/icfpt2017)
+<p>Top conference on  field programmable technologies and applications.  </p>
+
+<h4>FPT</h4>
+[FPT 2017 ( International Conference on Field-Programmable  Logic and Applications 2017)](https://www.fpl2017.org/)
+<p>Top conference on  field programmable technologies and applications.  </p>
+
 
 
 

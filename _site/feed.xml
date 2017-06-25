@@ -5,8 +5,8 @@
     <description>If you cannot measure it, you cannot improve it</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jun 2017 16:14:59 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Jun 2017 16:14:59 +0800</lastBuildDate>
+    <pubDate>Sun, 25 Jun 2017 19:44:03 +0800</pubDate>
+    <lastBuildDate>Sun, 25 Jun 2017 19:44:03 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -69,8 +69,30 @@ For more information about this story, please visit &lt;a href=&quot;http://www.
 &lt;p&gt;Top conference on  robotics and automation &lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Part 2: Reconfigurable computing&lt;/h2&gt;
+&lt;p&gt;If you were interested in reconfigurable computing. The following conferences should not be missed. &lt;/p&gt;
+&lt;h4&gt;ASPLOS&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://novel.ict.ac.cn/ASPLOS2017/&quot;&gt;ASPLOS 2017 (International Conference on Architectural Support for Programming Languages and Operating Systems 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  computer architecture and hardware, programming languages and compilers, operating systems and networking, as well as applications and user interfaces.  &lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
+&lt;h4&gt;ISCA&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://isca17.ece.utoronto.ca/doku.php&quot;&gt;ISCA 2017 (International Symposium on Computer Architecture  2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  computer architecture.  &lt;/p&gt;
+
+&lt;h4&gt;FPGA&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.isfpga.org/index.html&quot;&gt;FPGA 2017 (International Symposium on Field-Programmable Gate Arrays 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  FPGA.  &lt;/p&gt;
+
+&lt;h4&gt;FCCM&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://fccm.org/2017/&quot;&gt;FCCM 2017 (International Symposium on Field-Programmable Custom Computing Machines 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  exploiting the unique features and capabilities of FPGAs and other reconfigurable hardware.  &lt;/p&gt;
+
+&lt;h4&gt;FPL&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rmit.edu.au/events/all-events/conferences/2017/december/icfpt2017&quot;&gt;FPL 2017 ( International Conference on Field-Programmable Technology  2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  field programmable technologies and applications.  &lt;/p&gt;
+
+&lt;h4&gt;FPT&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.fpl2017.org/&quot;&gt;FPT 2017 ( International Conference on Field-Programmable  Logic and Applications 2017)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top conference on  field programmable technologies and applications.  &lt;/p&gt;
 
 &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/shCore.css&quot; /&gt;
 
