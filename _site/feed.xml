@@ -3,11 +3,51 @@
   <channel>
     <title>Yongfu He's Blog</title>
     <description>If you cannot measure it, you cannot improve it</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jun 2017 21:01:06 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Jun 2017 21:01:06 +0800</lastBuildDate>
+    <link>http://localhost:5001/</link>
+    <atom:link href="http://localhost:5001/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 26 Jun 2017 08:27:10 +0800</pubDate>
+    <lastBuildDate>Mon, 26 Jun 2017 08:27:10 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>The papers I have read this week</title>
+        <description>&lt;p&gt; In this blogpost, I will introduce some papers I have read in the past week. Those ideas that inspired me will be write down .  And this post will be updated in the future week. I hope this post can help you.&lt;/p&gt;
+
+&lt;p&gt;Feel free to follow if you'd be interested in reading more in the future and thanks for all the feedback!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-papers-i-have-read-this-week-0625-0701&quot;&gt;The papers I have read this week (06.25-07.01)&lt;/h2&gt;
+&lt;h4&gt;Paper 1 :&lt;/h4&gt;
+&lt;p&gt;To be continued &lt;/p&gt;
+
+&lt;h4&gt;Paper 2 :&lt;/h4&gt;
+&lt;p&gt;To be continued &lt;/p&gt;
+
+&lt;h4&gt;Paper 3 :&lt;/h4&gt;
+&lt;p&gt;To be continued &lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/shCore.css&quot; /&gt;
+
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/shThemeDefault.css&quot; /&gt;
+
+&lt;script src=&quot;/js/shCore.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/js/shLegacy.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/js/shBrushPython.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+	// SyntaxHighlighter.config.bloggerMode = true;
+	SyntaxHighlighter.config.toolbar = true;
+    SyntaxHighlighter.all();
+&lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 25 Jun 2017 20:00:00 +0800</pubDate>
+        <link>http://localhost:5001/2017/06/25/The-papers-I-have-read-this-week-(06.25-07.01)/</link>
+        <guid isPermaLink="true">http://localhost:5001/2017/06/25/The-papers-I-have-read-this-week-(06.25-07.01)/</guid>
+        
+        
+      </item>
     
       <item>
         <title>BBC Documentary</title>
@@ -25,8 +65,8 @@ For more information about this story, please visit &lt;a href=&quot;http://www.
 &lt;/center&gt;
 </description>
         <pubDate>Sat, 24 Jun 2017 20:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/06/24/BBC-documentary-Antarctica/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/24/BBC-documentary-Antarctica/</guid>
+        <link>http://localhost:5001/2017/06/24/BBC-documentary-Antarctica/</link>
+        <guid isPermaLink="true">http://localhost:5001/2017/06/24/BBC-documentary-Antarctica/</guid>
         
         
       </item>
@@ -64,8 +104,8 @@ For more information about this story, please visit &lt;a href=&quot;http://www.
 
 </description>
         <pubDate>Sat, 24 Jun 2017 20:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/06/24/Anomaly-detection-based-on-Deep-Learning/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/24/Anomaly-detection-based-on-Deep-Learning/</guid>
+        <link>http://localhost:5001/2017/06/24/Anomaly-detection-based-on-Deep-Learning/</link>
+        <guid isPermaLink="true">http://localhost:5001/2017/06/24/Anomaly-detection-based-on-Deep-Learning/</guid>
         
         
       </item>
@@ -151,8 +191,8 @@ For more information about this story, please visit &lt;a href=&quot;http://www.
 
 </description>
         <pubDate>Sat, 24 Jun 2017 18:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/06/24/conference-and-journal-list/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/24/conference-and-journal-list/</guid>
+        <link>http://localhost:5001/2017/06/24/conference-and-journal-list/</link>
+        <guid isPermaLink="true">http://localhost:5001/2017/06/24/conference-and-journal-list/</guid>
         
         
       </item>
@@ -397,8 +437,8 @@ class DNI(object):
 &lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Mar 2017 20:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/03/21/synthetic-gradients/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/21/synthetic-gradients/</guid>
+        <link>http://localhost:5001/2017/03/21/synthetic-gradients/</link>
+        <guid isPermaLink="true">http://localhost:5001/2017/03/21/synthetic-gradients/</guid>
         
         
       </item>
